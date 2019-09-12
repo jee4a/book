@@ -24,7 +24,7 @@ data
 《Flink基础教程-高》  
 《Python基础教程（第3版）》    
 
-运维
+运维  
 《Jenkins权威指南》  
 《Docker容器与容器云(第2版)》  
 《Kubernetes权威指南(第2版)》  
