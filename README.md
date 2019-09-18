@@ -22,7 +22,7 @@ data
 《Flink基础教程》   
 《Python基础教程（第3版）》    
 
-运维  
+devops  
 《Jenkins权威指南》  
 《Docker容器与容器云(第2版)》  
 《Kubernetes权威指南(第2版)》  
