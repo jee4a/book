@@ -13,14 +13,14 @@ micro service
 《从Paxos到Zookeeper 分布式一致性原理与实践》  
 
 data  
-《罗李：滴滴大数据离线和实时平台架构和实践》  
-《Spark高级数据分析》  
-《HBase权威指南中文版》  
 《离线和实时大数据开发实战 》  
 《大数据之路：阿里巴巴大数据实践》  
+《Spark高级数据分析》  
+《HBase权威指南中文版》  
 《Hadoop权威指南 中文版》  
 《Flink基础教程》   
 《Python基础教程（第3版）》    
+《罗李：滴滴大数据离线和实时平台架构和实践》  
 
 devops  
 《Jenkins权威指南》  
